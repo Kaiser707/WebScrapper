@@ -17,12 +17,6 @@ def scrapThis():
 	}
 
 
-@app.route('/test/<name>')
-def tesst(name): 
-	return{
-		'time' : name
-	}
-
 @app.route('/instascrape', methods=['GET'])
 def instaScrape():
 	
