@@ -1,3 +1,4 @@
+# WebScrapper
 This is Web Scrapping web application that has been made in ReactJS and Flask. The Flask server returns a JSON format which is utilized by the ReactJS. 
 
 The application accepts any URL in the text box. Upon submitting the URL, the application returns scrapes the URL and then displays the scrapped code in textarea. It works on any URL. 
